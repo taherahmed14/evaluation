@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "company_name": "company 1",
+      "job_title": "title 1",
+      "salary": "100000",
+      "description": "Hi world",
+      "location": "chennai",
+      "job_type": "remote",
+      "id": 3
+    },
+    {
+      "company_name": "company 2",
+      "job_title": "title 2",
+      "salary": "20000",
+      "description": "Hi world",
+      "location": "pune",
+      "job_type": "site",
+      "id": 4
+    },
+    {
+      "company_name": "Company 3",
+      "job_title": "title 3",
+      "salary": "5000",
+      "description": "Hi world",
+      "location": "Bangalore",
+      "job_type": "Remote",
+      "id": 5
+    },
+    {
+      "company_name": "Company 5",
+      "job_title": "Title 5",
+      "salary": "70000",
+      "description": "Hi world",
+      "location": "Chennai",
+      "job_type": "Remote",
+      "id": 6
+    }
+  ],
+  "apply": [
+    [
+      {
+        "company_name": "company 1",
+        "job_title": "title 1",
+        "salary": "100000",
+        "description": "Hi world",
+        "location": "chennai",
+        "job_type": "remote",
+        "id": 3
+      }
+    ],
+    [
+      {
+        "company_name": "company 2",
+        "job_title": "title 2",
+        "salary": "20000",
+        "description": "Hi world",
+        "location": "pune",
+        "job_type": "site",
+        "id": 4
+      }
+    ]
+  ]
+}

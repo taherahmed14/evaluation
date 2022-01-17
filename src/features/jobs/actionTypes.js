@@ -1,0 +1,7 @@
+export const JOBS_LOADING = "JOBS_LOADING";
+export const JOBS_SUCCESS = "JOBS_SUCCESS";
+export const JOBS_ERROR = "JOBS_ERROR";
+
+export const JOBS_GET_LOADING = "JOBS_GET_LOADING";
+export const JOBS_GET_SUCCESS = "JOBS_GET_SUCCESS";
+export const JOBS_GET_ERROR = "JOBS_GET_ERROR";
